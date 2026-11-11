@@ -1,0 +1,152 @@
+# ◈ SupplySight — Global Operations Intelligence
+
+**An interactive supply-chain analytics command centre built with Python, Streamlit and Plotly.**
+
+SupplySight is an independent portfolio project that demonstrates how operational data can be transformed into decision-support dashboards. It brings together delivery reliability, inventory risk, fulfilment performance and scenario modelling in a single interface.
+
+> [!IMPORTANT]
+> **Synthetic data demonstration:** All records and figures in this project are fictional and generated for portfolio purposes. They do not represent real customers, suppliers, carriers or business performance.
+
+## Dashboard capabilities
+
+| Workspace | What you can explore |
+| --- | --- |
+| **Command centre** | Order value, delivery performance, regional breakdowns and carrier reliability |
+| **Delivery performance** | Delivery delays, on-time rates and carrier comparisons |
+| **Inventory risk** | Reorder alerts, stock cover and supplier lead-time exposure |
+| **Scenario lab** | Illustrative effects of improved delivery performance, shipping costs and order volume |
+| **Data quality & methodology** | Missing values, duplicate checks, KPI definitions and limitations |
+
+## Technology stack
+
+- **Python** — data processing and application logic
+- **Pandas & NumPy** — transformations, aggregation and calculations
+- **Plotly** — interactive charts
+- **Streamlit** — web dashboard and user controls
+- **CSV** — included synthetic demonstration datasets
+- **GitHub** — version control and portfolio presentation
+
+## Architecture
+
+![SupplySight data pipeline](assets/pipeline.svg)
+
+```text
+Synthetic operational CSVs
+          │
+          ▼
+Python / Pandas data loading
+          │
+          ▼
+Filtering and KPI calculations
+          │
+          ├── Delivery reliability
+          ├── Inventory risk rules
+          └── Scenario calculations
+          │
+          ▼
+Streamlit + Plotly dashboards
+          │
+          ▼
+GitHub repository / Streamlit Cloud deployment
+```
+
+The current application is **file-based**. It does not claim to include a production database, live logistics integrations or real-time data feeds.
+
+## Project structure
+
+```text
+SupplySight/
+├── .streamlit/
+│   └── config.toml
+├── assets/
+│   └── pipeline.svg
+├── data/
+│   ├── orders.csv
+│   ├── delivery_events.csv
+│   └── inventory.csv
+├── docs/
+│   └── DATA_DICTIONARY.md
+├── .gitignore
+├── LICENSE
+├── README.md
+├── app.py
+└── requirements.txt
+```
+
+## Synthetic datasets
+
+| File | Approximate size | Description |
+| --- | ---: | --- |
+| `data/orders.csv` | 3,200 rows | Orders, destinations, carriers, order values and shipping costs |
+| `data/delivery_events.csv` | 3,200 rows | Delivery timing, delays and on-time flags |
+| `data/inventory.csv` | 400 rows | Stock levels, reorder points, daily demand and supplier lead times |
+
+These files are provided so the application can run immediately without credentials or external APIs.
+
+## Run locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/diegoallanalves/SupplySight.git
+cd SupplySight
+```
+
+### 2. Install dependencies
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+### 3. Start the dashboard
+
+```bash
+python -m streamlit run app.py
+```
+
+Open **http://localhost:8501** in your browser.
+
+## Deploy to Streamlit Community Cloud
+
+1. Visit [Streamlit Community Cloud](https://share.streamlit.io/).
+2. Sign in with GitHub.
+3. Choose **Create app** and select the `diegoallanalves/SupplySight` repository.
+4. Select branch `main` and entry point `app.py`.
+5. Deploy and copy the public URL.
+
+**Live demo:** _Add your Streamlit deployment URL here after publishing._
+
+## KPI definitions
+
+- **On-time delivery rate:** completed deliveries with delivery date on or before the promised date, divided by all completed deliveries.
+- **Order value:** total recorded order value; it is **not** recognised accounting revenue.
+- **Days of stock cover:** units on hand divided by assumed daily demand.
+- **Reorder now:** on-hand inventory is below its reorder point.
+- **Lead-time risk:** stock cover is shorter than the supplier lead time, when the SKU is not already marked for reorder.
+- **Scenario lab:** deterministic what-if calculations, **not** predictive machine learning.
+
+## Data quality and limitations
+
+- All operational data are synthetic.
+- The inventory dataset is not linked to individual orders or shipments.
+- Carrier and regional comparisons are demonstrations, not real-world performance assessments.
+- Uploaded orders can replace the orders dataset; delivery events are recalculated, while inventory remains the included demo dataset.
+- Data quality checks are descriptive and do not replace a production validation pipeline.
+
+## Future enhancements
+
+- [ ] PostgreSQL ingestion and dimensional data modelling
+- [ ] dbt transformations and automated data tests
+- [ ] GitHub Actions continuous integration
+- [ ] Exception monitoring and SLA alerts
+- [ ] Forecasting with evaluation and backtesting
+
+## Author
+
+**Diego Alves** — Data Engineering & Analytics
+
+[GitHub profile](https://github.com/diegoallanalves)
+
+## License
+
+MIT — see [LICENSE](LICENSE).
