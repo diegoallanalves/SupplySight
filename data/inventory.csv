@@ -1,0 +1,401 @@
+sku,region,category,on_hand,reorder_point,daily_demand,unit_cost_gbp,supplier_lead_days
+SKU-0001,Latin America,Home & Living,505,102,6.6,114.09,4
+SKU-0002,Europe,Home & Living,764,243,28.7,180.41,19
+SKU-0003,Latin America,Healthcare,809,203,14.3,161.31,12
+SKU-0004,Europe,Industrial Parts,317,165,6.7,14.43,4
+SKU-0005,North America,Apparel,370,122,19.5,101.39,8
+SKU-0006,Latin America,Electronics,229,87,19.5,118.1,23
+SKU-0007,APAC,Healthcare,816,220,29.8,120.98,20
+SKU-0008,Europe,Electronics,632,111,21.0,74.98,5
+SKU-0009,Europe,Electronics,509,140,19.5,182.82,11
+SKU-0010,North America,Apparel,728,89,27.0,136.58,15
+SKU-0011,North America,Home & Living,768,222,4.2,23.95,23
+SKU-0012,Latin America,Apparel,699,119,16.4,126.33,4
+SKU-0013,Latin America,Industrial Parts,49,170,28.5,93.35,24
+SKU-0014,North America,Electronics,552,159,31.3,22.77,13
+SKU-0015,North America,Apparel,21,150,12.1,160.42,8
+SKU-0016,Latin America,Healthcare,488,196,6.5,149.95,13
+SKU-0017,APAC,Industrial Parts,330,192,32.7,114.3,9
+SKU-0018,Latin America,Home & Living,786,236,20.0,147.25,3
+SKU-0019,APAC,Home & Living,849,89,25.0,143.46,9
+SKU-0020,North America,Electronics,833,235,31.0,121.59,23
+SKU-0021,Europe,Home & Living,556,149,18.5,81.89,17
+SKU-0022,Europe,Home & Living,404,137,21.5,174.98,4
+SKU-0023,North America,Industrial Parts,474,111,14.8,153.72,7
+SKU-0024,North America,Home & Living,761,171,5.8,79.62,3
+SKU-0025,APAC,Home & Living,834,172,28.4,19.56,4
+SKU-0026,Latin America,Apparel,168,155,26.4,160.93,4
+SKU-0027,APAC,Electronics,179,186,8.6,149.04,9
+SKU-0028,Latin America,Industrial Parts,387,95,15.9,174.49,13
+SKU-0029,Latin America,Healthcare,154,119,19.1,24.14,22
+SKU-0030,APAC,Home & Living,251,170,2.6,90.04,24
+SKU-0031,Latin America,Electronics,150,115,17.3,94.84,5
+SKU-0032,Europe,Electronics,599,165,27.0,104.94,5
+SKU-0033,APAC,Healthcare,614,172,3.9,9.64,14
+SKU-0034,North America,Healthcare,467,107,28.5,153.23,6
+SKU-0035,Europe,Home & Living,127,218,11.7,94.45,7
+SKU-0036,Latin America,Industrial Parts,19,157,19.5,129.13,22
+SKU-0037,Latin America,Apparel,318,196,14.5,56.07,6
+SKU-0038,Latin America,Electronics,595,124,16.8,56.27,23
+SKU-0039,Latin America,Home & Living,384,205,4.6,106.39,6
+SKU-0040,Europe,Electronics,660,141,3.0,146.37,18
+SKU-0041,North America,Electronics,545,227,23.6,61.63,20
+SKU-0042,APAC,Industrial Parts,164,195,30.6,161.07,23
+SKU-0043,North America,Healthcare,635,222,19.0,67.39,23
+SKU-0044,Latin America,Apparel,365,164,25.2,47.05,12
+SKU-0045,North America,Electronics,408,244,3.3,21.9,19
+SKU-0046,North America,Industrial Parts,374,246,25.5,18.17,13
+SKU-0047,Latin America,Home & Living,459,80,24.4,9.8,17
+SKU-0048,North America,Healthcare,365,170,4.4,144.72,21
+SKU-0049,North America,Industrial Parts,463,182,24.5,139.38,12
+SKU-0050,North America,Apparel,595,118,5.0,28.94,16
+SKU-0051,APAC,Healthcare,552,130,12.1,20.65,14
+SKU-0052,North America,Industrial Parts,375,166,4.5,171.31,22
+SKU-0053,North America,Electronics,551,144,31.5,51.76,16
+SKU-0054,Europe,Apparel,438,116,5.8,33.29,3
+SKU-0055,APAC,Electronics,349,243,20.4,47.98,9
+SKU-0056,APAC,Apparel,6,85,2.7,157.45,24
+SKU-0057,Latin America,Healthcare,258,254,32.2,20.57,21
+SKU-0058,Europe,Electronics,801,201,9.6,45.15,4
+SKU-0059,APAC,Industrial Parts,202,201,34.5,151.9,4
+SKU-0060,Latin America,Home & Living,292,195,3.4,40.69,13
+SKU-0061,Latin America,Apparel,324,160,7.6,35.12,13
+SKU-0062,North America,Electronics,34,257,23.0,115.85,22
+SKU-0063,North America,Electronics,472,148,16.4,94.71,13
+SKU-0064,APAC,Home & Living,366,163,3.3,92.6,4
+SKU-0065,North America,Apparel,833,119,15.8,126.54,10
+SKU-0066,North America,Apparel,634,96,34.6,62.37,14
+SKU-0067,Europe,Home & Living,570,191,22.6,175.93,24
+SKU-0068,North America,Industrial Parts,176,166,33.7,42.86,19
+SKU-0069,APAC,Industrial Parts,421,110,12.3,23.55,17
+SKU-0070,APAC,Healthcare,744,146,9.3,70.38,9
+SKU-0071,Latin America,Electronics,825,187,23.7,122.48,20
+SKU-0072,APAC,Industrial Parts,690,110,12.5,134.69,22
+SKU-0073,North America,Industrial Parts,163,103,15.9,90.66,19
+SKU-0074,Europe,Industrial Parts,693,152,5.8,58.68,7
+SKU-0075,Latin America,Home & Living,546,143,5.3,162.32,20
+SKU-0076,APAC,Home & Living,29,144,28.2,122.68,8
+SKU-0077,Latin America,Electronics,22,252,30.1,116.67,3
+SKU-0078,APAC,Apparel,369,166,11.1,162.66,7
+SKU-0079,Latin America,Healthcare,381,221,34.4,88.85,4
+SKU-0080,Latin America,Industrial Parts,612,163,17.9,138.84,11
+SKU-0081,APAC,Apparel,537,208,28.0,178.05,6
+SKU-0082,APAC,Home & Living,209,102,12.2,68.7,23
+SKU-0083,Europe,Healthcare,682,112,28.5,138.71,9
+SKU-0084,North America,Home & Living,812,201,32.1,68.65,6
+SKU-0085,APAC,Healthcare,653,201,21.1,102.23,6
+SKU-0086,North America,Home & Living,818,199,20.6,94.98,19
+SKU-0087,Europe,Healthcare,675,89,33.9,37.44,5
+SKU-0088,North America,Electronics,355,244,34.1,137.76,6
+SKU-0089,Latin America,Apparel,335,99,8.3,111.0,17
+SKU-0090,APAC,Industrial Parts,738,242,18.2,149.38,15
+SKU-0091,Latin America,Home & Living,805,114,20.3,13.0,7
+SKU-0092,North America,Healthcare,805,171,17.8,95.52,3
+SKU-0093,Europe,Healthcare,188,148,3.4,14.38,17
+SKU-0094,Latin America,Healthcare,151,82,18.3,84.13,8
+SKU-0095,Europe,Apparel,835,81,3.5,186.93,9
+SKU-0096,North America,Apparel,97,100,24.0,123.21,9
+SKU-0097,Europe,Home & Living,415,192,11.2,90.03,7
+SKU-0098,APAC,Industrial Parts,7,113,13.8,129.36,3
+SKU-0099,Europe,Home & Living,22,131,2.3,141.92,7
+SKU-0100,North America,Home & Living,255,208,7.6,165.66,4
+SKU-0101,Europe,Electronics,288,171,12.6,94.44,17
+SKU-0102,APAC,Home & Living,429,120,33.0,22.94,14
+SKU-0103,APAC,Apparel,783,158,17.6,37.51,13
+SKU-0104,Europe,Electronics,300,183,32.1,139.43,5
+SKU-0105,APAC,Healthcare,690,186,22.9,141.63,20
+SKU-0106,Europe,Industrial Parts,164,171,17.4,117.64,20
+SKU-0107,Europe,Healthcare,319,257,27.5,95.99,12
+SKU-0108,Europe,Electronics,825,246,32.8,121.1,18
+SKU-0109,APAC,Industrial Parts,143,173,4.6,63.39,20
+SKU-0110,North America,Industrial Parts,342,256,8.2,51.66,4
+SKU-0111,Latin America,Electronics,121,85,14.1,17.45,12
+SKU-0112,Latin America,Industrial Parts,378,236,34.4,124.85,7
+SKU-0113,Europe,Apparel,532,238,16.3,161.47,7
+SKU-0114,APAC,Apparel,161,224,7.7,117.67,7
+SKU-0115,Latin America,Apparel,720,137,17.8,13.98,7
+SKU-0116,North America,Healthcare,641,242,19.3,12.22,15
+SKU-0117,APAC,Home & Living,627,252,7.3,130.95,9
+SKU-0118,APAC,Apparel,259,217,20.0,149.23,6
+SKU-0119,North America,Home & Living,94,134,20.9,183.48,20
+SKU-0120,APAC,Electronics,622,205,6.7,179.93,22
+SKU-0121,North America,Electronics,197,184,12.4,44.41,13
+SKU-0122,North America,Healthcare,424,203,17.4,151.71,3
+SKU-0123,North America,Healthcare,526,214,5.6,29.12,10
+SKU-0124,North America,Apparel,227,204,9.5,24.1,4
+SKU-0125,North America,Industrial Parts,570,104,25.4,168.97,22
+SKU-0126,Europe,Apparel,649,177,30.9,81.25,21
+SKU-0127,Latin America,Home & Living,746,162,34.7,120.47,4
+SKU-0128,North America,Healthcare,108,152,34.9,11.89,6
+SKU-0129,Europe,Electronics,637,81,19.4,179.35,24
+SKU-0130,APAC,Healthcare,339,182,30.0,158.12,20
+SKU-0131,North America,Healthcare,685,229,31.6,85.94,10
+SKU-0132,Europe,Electronics,271,95,15.2,185.42,23
+SKU-0133,Latin America,Home & Living,198,202,19.0,167.71,17
+SKU-0134,Latin America,Apparel,642,224,33.9,103.85,12
+SKU-0135,Latin America,Healthcare,237,201,14.8,181.55,17
+SKU-0136,North America,Industrial Parts,371,214,9.9,32.46,15
+SKU-0137,North America,Home & Living,578,229,21.9,112.26,4
+SKU-0138,APAC,Industrial Parts,129,148,10.4,142.98,16
+SKU-0139,Latin America,Industrial Parts,761,222,27.5,83.53,6
+SKU-0140,Latin America,Industrial Parts,803,177,8.6,48.35,5
+SKU-0141,Latin America,Electronics,789,80,9.5,32.37,3
+SKU-0142,Latin America,Industrial Parts,765,239,28.6,155.31,13
+SKU-0143,APAC,Electronics,69,117,31.7,128.71,16
+SKU-0144,APAC,Healthcare,544,152,18.3,80.5,24
+SKU-0145,APAC,Apparel,596,209,26.6,141.4,18
+SKU-0146,Latin America,Electronics,763,198,26.4,89.54,22
+SKU-0147,Europe,Healthcare,823,213,20.5,162.41,8
+SKU-0148,Europe,Industrial Parts,194,156,27.9,127.46,17
+SKU-0149,Latin America,Home & Living,598,83,16.4,183.98,24
+SKU-0150,North America,Apparel,443,88,34.4,177.34,13
+SKU-0151,Europe,Healthcare,83,84,4.1,158.33,5
+SKU-0152,Latin America,Healthcare,375,107,5.0,184.86,11
+SKU-0153,APAC,Apparel,260,170,5.9,110.62,18
+SKU-0154,North America,Healthcare,205,131,5.3,145.38,19
+SKU-0155,APAC,Industrial Parts,681,119,8.9,187.95,11
+SKU-0156,APAC,Electronics,464,218,16.5,180.49,12
+SKU-0157,APAC,Industrial Parts,582,257,3.2,185.47,22
+SKU-0158,Latin America,Healthcare,136,219,31.5,10.97,9
+SKU-0159,Europe,Apparel,51,226,15.9,151.87,12
+SKU-0160,North America,Healthcare,218,170,18.0,58.71,7
+SKU-0161,Europe,Home & Living,598,110,17.8,161.53,22
+SKU-0162,APAC,Home & Living,671,99,29.3,82.46,24
+SKU-0163,Latin America,Home & Living,584,166,9.9,143.88,23
+SKU-0164,North America,Electronics,658,250,8.8,46.75,17
+SKU-0165,APAC,Apparel,418,209,2.9,135.56,4
+SKU-0166,Latin America,Industrial Parts,508,186,11.0,121.15,12
+SKU-0167,Europe,Healthcare,433,162,31.0,75.83,4
+SKU-0168,Europe,Home & Living,523,117,33.6,55.64,20
+SKU-0169,Europe,Home & Living,154,219,31.8,108.78,11
+SKU-0170,Latin America,Electronics,552,175,26.8,166.66,5
+SKU-0171,APAC,Industrial Parts,15,222,27.9,144.84,12
+SKU-0172,Europe,Industrial Parts,103,203,21.6,178.94,14
+SKU-0173,Latin America,Electronics,717,209,28.8,187.25,9
+SKU-0174,Europe,Apparel,643,151,29.8,87.31,13
+SKU-0175,Europe,Apparel,227,189,2.6,60.61,17
+SKU-0176,North America,Electronics,761,124,15.6,62.79,12
+SKU-0177,Europe,Home & Living,330,224,12.9,152.42,24
+SKU-0178,North America,Electronics,709,132,25.3,150.2,8
+SKU-0179,North America,Healthcare,415,233,9.9,59.45,6
+SKU-0180,North America,Healthcare,293,152,13.0,186.41,9
+SKU-0181,North America,Electronics,382,145,20.6,182.73,20
+SKU-0182,APAC,Electronics,844,115,26.6,165.31,24
+SKU-0183,APAC,Home & Living,845,110,12.3,154.49,12
+SKU-0184,Europe,Home & Living,136,87,30.6,98.32,5
+SKU-0185,APAC,Industrial Parts,180,142,3.3,83.14,15
+SKU-0186,North America,Industrial Parts,320,87,20.6,155.79,18
+SKU-0187,Latin America,Apparel,97,171,27.1,13.18,24
+SKU-0188,APAC,Healthcare,638,221,31.0,136.55,5
+SKU-0189,APAC,Electronics,512,235,11.9,158.79,10
+SKU-0190,APAC,Apparel,469,188,4.4,80.72,24
+SKU-0191,APAC,Home & Living,627,211,25.4,49.19,4
+SKU-0192,North America,Industrial Parts,713,236,2.3,188.95,11
+SKU-0193,North America,Apparel,408,150,30.5,149.74,7
+SKU-0194,APAC,Healthcare,287,95,18.5,115.59,10
+SKU-0195,North America,Industrial Parts,412,155,7.4,145.47,13
+SKU-0196,Latin America,Apparel,32,223,22.0,11.44,14
+SKU-0197,APAC,Industrial Parts,73,258,22.7,59.81,11
+SKU-0198,APAC,Healthcare,811,191,31.5,103.55,23
+SKU-0199,North America,Electronics,177,142,20.0,29.95,10
+SKU-0200,APAC,Home & Living,534,192,24.4,149.14,15
+SKU-0201,North America,Industrial Parts,490,151,4.4,86.62,22
+SKU-0202,North America,Industrial Parts,270,110,3.1,68.87,5
+SKU-0203,APAC,Industrial Parts,81,144,25.6,86.73,4
+SKU-0204,Latin America,Electronics,184,121,30.0,167.58,13
+SKU-0205,North America,Home & Living,415,141,32.9,22.8,17
+SKU-0206,North America,Industrial Parts,826,222,14.0,84.05,17
+SKU-0207,APAC,Apparel,321,208,24.9,170.81,17
+SKU-0208,Europe,Home & Living,476,83,25.5,23.29,16
+SKU-0209,Europe,Electronics,677,255,19.8,136.5,11
+SKU-0210,APAC,Home & Living,692,226,32.4,19.51,3
+SKU-0211,Europe,Healthcare,281,159,8.4,82.17,12
+SKU-0212,APAC,Apparel,296,130,10.0,101.37,22
+SKU-0213,Europe,Electronics,115,223,6.0,26.91,11
+SKU-0214,Latin America,Industrial Parts,55,184,22.1,168.96,7
+SKU-0215,North America,Home & Living,39,239,17.7,35.22,13
+SKU-0216,Latin America,Electronics,742,246,3.4,73.02,8
+SKU-0217,Europe,Home & Living,226,130,20.6,139.85,20
+SKU-0218,Latin America,Healthcare,784,163,34.4,67.35,15
+SKU-0219,APAC,Industrial Parts,651,219,5.3,29.92,17
+SKU-0220,North America,Industrial Parts,619,108,11.0,70.11,22
+SKU-0221,Latin America,Apparel,718,139,26.4,28.79,5
+SKU-0222,North America,Healthcare,676,149,24.4,169.73,10
+SKU-0223,North America,Home & Living,279,100,30.4,132.51,9
+SKU-0224,North America,Healthcare,120,109,22.2,23.89,5
+SKU-0225,Europe,Apparel,295,210,9.4,104.25,9
+SKU-0226,Europe,Electronics,106,247,10.9,132.73,22
+SKU-0227,North America,Apparel,613,178,3.5,30.31,4
+SKU-0228,Europe,Home & Living,66,110,31.5,130.17,22
+SKU-0229,APAC,Apparel,627,129,20.6,113.56,21
+SKU-0230,APAC,Apparel,569,120,7.8,172.17,11
+SKU-0231,North America,Apparel,335,178,34.5,75.27,18
+SKU-0232,Europe,Healthcare,666,105,12.0,41.66,24
+SKU-0233,Latin America,Electronics,152,254,33.6,167.89,10
+SKU-0234,APAC,Apparel,550,255,11.2,32.42,13
+SKU-0235,Europe,Healthcare,149,181,18.0,155.8,11
+SKU-0236,North America,Apparel,179,110,15.5,147.08,6
+SKU-0237,Latin America,Electronics,315,248,18.5,46.88,24
+SKU-0238,Latin America,Industrial Parts,257,196,11.3,41.03,24
+SKU-0239,Latin America,Electronics,407,197,10.9,146.21,17
+SKU-0240,Europe,Apparel,89,85,14.9,137.92,18
+SKU-0241,Latin America,Home & Living,695,237,18.4,69.49,24
+SKU-0242,APAC,Home & Living,123,181,6.0,17.95,19
+SKU-0243,APAC,Industrial Parts,312,245,2.5,116.59,5
+SKU-0244,North America,Industrial Parts,409,89,3.6,141.57,23
+SKU-0245,Europe,Home & Living,545,110,34.5,149.39,18
+SKU-0246,North America,Home & Living,484,209,18.5,34.19,18
+SKU-0247,Europe,Electronics,301,185,8.0,97.52,6
+SKU-0248,North America,Healthcare,79,188,21.5,42.47,9
+SKU-0249,Europe,Apparel,451,127,9.5,159.11,19
+SKU-0250,North America,Healthcare,132,113,13.4,85.75,12
+SKU-0251,Latin America,Industrial Parts,506,252,34.7,86.43,15
+SKU-0252,APAC,Healthcare,452,215,8.7,126.3,11
+SKU-0253,APAC,Healthcare,718,171,8.5,70.95,19
+SKU-0254,North America,Industrial Parts,191,147,10.4,181.84,14
+SKU-0255,North America,Healthcare,569,120,23.4,107.05,19
+SKU-0256,APAC,Healthcare,849,173,6.3,114.11,4
+SKU-0257,APAC,Industrial Parts,190,221,12.9,16.79,9
+SKU-0258,APAC,Electronics,402,139,4.9,59.01,13
+SKU-0259,Latin America,Home & Living,486,178,33.2,74.4,22
+SKU-0260,Europe,Healthcare,497,111,3.3,30.17,12
+SKU-0261,North America,Apparel,36,215,33.6,150.97,7
+SKU-0262,APAC,Industrial Parts,740,142,34.8,126.52,4
+SKU-0263,North America,Apparel,266,244,5.7,85.39,9
+SKU-0264,APAC,Industrial Parts,700,119,30.3,185.01,21
+SKU-0265,North America,Apparel,695,197,33.0,12.08,3
+SKU-0266,North America,Healthcare,460,251,18.9,163.72,16
+SKU-0267,APAC,Electronics,828,152,16.7,40.8,20
+SKU-0268,APAC,Electronics,467,115,34.9,84.63,8
+SKU-0269,Latin America,Healthcare,124,101,8.8,52.19,10
+SKU-0270,Latin America,Home & Living,371,110,30.6,145.06,4
+SKU-0271,APAC,Home & Living,636,232,9.0,63.21,21
+SKU-0272,APAC,Industrial Parts,64,175,33.0,42.69,15
+SKU-0273,Europe,Healthcare,504,208,6.2,171.23,3
+SKU-0274,Latin America,Apparel,300,252,31.5,49.75,8
+SKU-0275,North America,Electronics,192,176,34.0,156.93,3
+SKU-0276,North America,Apparel,12,119,24.6,154.84,23
+SKU-0277,North America,Apparel,548,201,26.6,181.8,7
+SKU-0278,Europe,Electronics,731,140,33.8,94.6,24
+SKU-0279,Latin America,Apparel,611,99,31.0,75.74,16
+SKU-0280,APAC,Industrial Parts,30,86,24.3,172.48,17
+SKU-0281,North America,Home & Living,517,98,10.5,175.18,18
+SKU-0282,Latin America,Electronics,619,214,15.5,108.84,10
+SKU-0283,Latin America,Home & Living,50,158,6.3,32.72,20
+SKU-0284,Latin America,Healthcare,702,104,21.4,28.02,15
+SKU-0285,North America,Apparel,485,237,22.4,70.25,7
+SKU-0286,Europe,Home & Living,216,231,17.4,47.89,6
+SKU-0287,Europe,Healthcare,662,228,15.8,148.18,20
+SKU-0288,APAC,Electronics,686,109,30.8,166.93,15
+SKU-0289,APAC,Healthcare,477,208,7.7,174.92,4
+SKU-0290,Latin America,Electronics,226,112,25.1,87.16,15
+SKU-0291,Europe,Apparel,106,117,6.6,33.22,18
+SKU-0292,Europe,Apparel,127,140,3.2,171.18,21
+SKU-0293,Latin America,Industrial Parts,288,94,32.8,54.53,10
+SKU-0294,Latin America,Apparel,626,260,16.4,156.71,5
+SKU-0295,APAC,Industrial Parts,525,90,28.8,167.17,10
+SKU-0296,APAC,Apparel,0,134,32.5,69.34,3
+SKU-0297,APAC,Electronics,593,178,7.1,164.69,23
+SKU-0298,North America,Apparel,609,82,11.1,106.89,7
+SKU-0299,Europe,Healthcare,47,127,8.5,187.23,20
+SKU-0300,North America,Healthcare,349,230,21.8,123.4,23
+SKU-0301,APAC,Industrial Parts,621,215,3.8,156.8,12
+SKU-0302,APAC,Electronics,277,239,16.3,179.68,20
+SKU-0303,Europe,Industrial Parts,809,174,2.9,173.55,14
+SKU-0304,Latin America,Electronics,152,174,6.6,44.58,19
+SKU-0305,APAC,Home & Living,239,104,30.5,83.12,10
+SKU-0306,North America,Electronics,794,96,19.0,86.41,12
+SKU-0307,APAC,Healthcare,726,155,20.6,46.66,7
+SKU-0308,Europe,Apparel,7,112,30.7,104.15,7
+SKU-0309,Latin America,Home & Living,529,177,23.8,168.38,14
+SKU-0310,Europe,Industrial Parts,63,225,25.8,105.4,20
+SKU-0311,North America,Home & Living,117,105,13.2,158.51,9
+SKU-0312,North America,Industrial Parts,356,242,13.6,43.29,13
+SKU-0313,North America,Apparel,3,200,33.8,9.88,24
+SKU-0314,North America,Industrial Parts,288,231,15.3,78.73,3
+SKU-0315,Europe,Healthcare,568,113,34.3,97.94,3
+SKU-0316,Latin America,Electronics,716,115,3.2,57.62,12
+SKU-0317,North America,Industrial Parts,345,90,14.7,170.91,5
+SKU-0318,Latin America,Apparel,159,114,25.7,136.17,21
+SKU-0319,Europe,Apparel,664,99,14.3,93.99,12
+SKU-0320,Latin America,Industrial Parts,353,128,26.4,185.91,21
+SKU-0321,North America,Industrial Parts,75,241,10.0,125.65,3
+SKU-0322,North America,Electronics,569,218,9.5,147.59,9
+SKU-0323,Europe,Home & Living,77,88,14.4,63.08,4
+SKU-0324,North America,Industrial Parts,541,216,13.1,134.33,14
+SKU-0325,Europe,Home & Living,528,218,29.1,23.22,6
+SKU-0326,Europe,Healthcare,130,127,32.3,27.69,16
+SKU-0327,Europe,Healthcare,538,185,13.6,99.82,22
+SKU-0328,North America,Apparel,147,257,11.7,69.43,12
+SKU-0329,Europe,Electronics,306,173,17.5,170.78,19
+SKU-0330,Latin America,Healthcare,720,145,3.0,168.08,17
+SKU-0331,APAC,Apparel,696,240,34.6,110.55,3
+SKU-0332,North America,Home & Living,200,243,32.2,83.1,14
+SKU-0333,Latin America,Electronics,456,174,3.8,38.55,12
+SKU-0334,North America,Apparel,827,162,27.0,66.37,21
+SKU-0335,North America,Electronics,476,188,12.8,165.96,4
+SKU-0336,North America,Home & Living,659,258,15.8,116.66,22
+SKU-0337,Europe,Healthcare,629,175,11.2,120.65,17
+SKU-0338,North America,Apparel,181,181,8.2,156.93,9
+SKU-0339,Latin America,Electronics,54,143,24.2,37.88,9
+SKU-0340,North America,Healthcare,763,204,10.6,49.27,11
+SKU-0341,APAC,Healthcare,490,237,20.4,83.26,11
+SKU-0342,North America,Industrial Parts,749,184,24.4,175.05,16
+SKU-0343,North America,Home & Living,420,256,9.6,127.33,12
+SKU-0344,Europe,Industrial Parts,525,192,10.2,67.06,5
+SKU-0345,Europe,Home & Living,826,147,4.3,74.08,8
+SKU-0346,North America,Apparel,604,90,11.2,114.4,19
+SKU-0347,Latin America,Electronics,589,195,24.5,13.82,10
+SKU-0348,Latin America,Apparel,440,229,7.6,163.01,5
+SKU-0349,Europe,Electronics,251,135,26.4,156.4,6
+SKU-0350,Europe,Healthcare,595,188,22.3,24.67,13
+SKU-0351,Europe,Healthcare,751,104,5.3,107.62,11
+SKU-0352,Europe,Home & Living,154,106,23.2,99.01,4
+SKU-0353,North America,Electronics,300,85,9.0,18.6,6
+SKU-0354,Europe,Industrial Parts,713,255,17.6,104.64,10
+SKU-0355,Latin America,Industrial Parts,233,183,26.5,110.54,21
+SKU-0356,North America,Electronics,378,208,19.5,26.24,7
+SKU-0357,Europe,Home & Living,276,138,19.1,76.37,20
+SKU-0358,APAC,Home & Living,368,106,25.0,51.72,5
+SKU-0359,Latin America,Industrial Parts,228,132,32.7,38.43,8
+SKU-0360,Latin America,Electronics,166,184,31.8,122.43,6
+SKU-0361,Europe,Apparel,25,166,33.6,51.32,5
+SKU-0362,Europe,Electronics,345,124,27.7,128.08,3
+SKU-0363,APAC,Healthcare,281,101,29.6,168.01,21
+SKU-0364,Europe,Electronics,562,106,12.4,174.5,18
+SKU-0365,Latin America,Industrial Parts,562,195,31.5,165.42,13
+SKU-0366,North America,Apparel,232,191,6.7,69.25,20
+SKU-0367,Latin America,Home & Living,690,258,10.4,135.99,20
+SKU-0368,APAC,Healthcare,840,160,5.7,126.9,10
+SKU-0369,APAC,Electronics,110,132,32.3,101.28,7
+SKU-0370,Europe,Apparel,320,124,8.7,76.69,17
+SKU-0371,North America,Home & Living,554,89,28.1,82.13,16
+SKU-0372,APAC,Industrial Parts,799,188,18.2,101.98,20
+SKU-0373,Europe,Industrial Parts,48,170,15.3,114.96,8
+SKU-0374,Latin America,Apparel,792,176,28.9,178.44,12
+SKU-0375,Europe,Home & Living,428,253,14.4,90.0,10
+SKU-0376,APAC,Electronics,591,101,14.8,125.55,14
+SKU-0377,North America,Healthcare,95,158,2.3,139.75,9
+SKU-0378,APAC,Electronics,80,241,25.7,174.16,22
+SKU-0379,Latin America,Home & Living,674,232,12.9,153.03,6
+SKU-0380,APAC,Home & Living,264,81,6.8,33.04,19
+SKU-0381,Europe,Healthcare,588,197,20.8,168.23,10
+SKU-0382,Latin America,Electronics,819,171,12.4,115.09,6
+SKU-0383,APAC,Healthcare,306,166,6.7,142.48,14
+SKU-0384,Latin America,Home & Living,363,157,17.6,158.51,8
+SKU-0385,Europe,Healthcare,348,204,11.8,22.44,3
+SKU-0386,APAC,Industrial Parts,610,93,31.1,25.42,24
+SKU-0387,APAC,Industrial Parts,653,82,7.6,127.8,19
+SKU-0388,North America,Healthcare,322,145,30.6,57.97,17
+SKU-0389,Europe,Healthcare,743,157,20.3,32.04,7
+SKU-0390,Europe,Industrial Parts,568,204,13.2,24.33,15
+SKU-0391,North America,Electronics,39,170,6.4,41.31,8
+SKU-0392,North America,Electronics,679,150,7.3,49.18,20
+SKU-0393,Latin America,Industrial Parts,314,95,15.3,149.93,7
+SKU-0394,North America,Home & Living,430,109,26.3,34.58,8
+SKU-0395,North America,Healthcare,325,161,26.6,189.68,14
+SKU-0396,North America,Electronics,732,123,16.9,37.85,17
+SKU-0397,Latin America,Healthcare,272,188,8.3,175.11,16
+SKU-0398,APAC,Electronics,489,158,27.8,137.81,6
+SKU-0399,North America,Healthcare,346,101,31.7,115.41,16
+SKU-0400,Europe,Healthcare,10,246,3.7,23.76,18
